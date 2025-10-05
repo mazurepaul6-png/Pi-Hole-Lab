@@ -1,4 +1,4 @@
-# Pi-Hole-Lab
+# Pi-Hole Lab
 
 # PROJECTNAME
 
