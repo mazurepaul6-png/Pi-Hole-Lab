@@ -3,12 +3,12 @@
 # PROJECTNAME
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+
 Implement Pi-hole into the home network using a Raspberry Pi to enhance network security.
 
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
+
 - Command Line
 - Network Security
 - DNS Sinkhole
@@ -16,7 +16,7 @@ Implement Pi-hole into the home network using a Raspberry Pi to enhance network 
 
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+
 - Raspberry Pi (Physical Hardware)
 - Pi-Hole (Software)
 
