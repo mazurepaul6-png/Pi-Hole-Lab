@@ -65,7 +65,7 @@ Once DNS settings are changed, you should start seeing traffic coming into your 
 
 <img width="600" height="400" alt="Screenshot 2025-10-06 at 5 01 14 PM" src="https://github.com/user-attachments/assets/47b9ba82-0573-4212-966f-8b8e5113592a" />
 
-Pi-hole should be up and running! There are many settings you can adjust in the Pi-hole admin interface to enhance your security.
+Pi-hole should be up and running! There are settings you can adjust in the Pi-hole admin interface to enhance your security further.
 
 
 
