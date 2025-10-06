@@ -23,19 +23,25 @@ Implement Pi-hole into the home network using a Raspberry Pi to enhance network 
 
 # Step 1 - Download Raspberry PI OS
 Use Raspberry Pi Imager to download OS onto SD card.
+https://www.raspberrypi.com/software/
+
+<img width="600" height="400" alt="Screenshot 2025-10-06 at 5 24 27 PM" src="https://github.com/user-attachments/assets/207dbd7f-74d4-493b-bcce-1e6ff6bb8af5" />
 
 # Step 2 - Turn on Raspberry Pi
-Insert the SD card with the installed OS into your Raspberry Pi and turn it on. Connect your Raspberry Pi through Ethernet or WiFi.
+Insert the SD card with the installed OS into your Raspberry Pi and turn it on. 
+Connect your Raspberry Pi through Ethernet or WiFi.
 
 # Step 3 - Connect to Raspberry Pi
 Connect to your Raspberry Pi using SSH over the command line (e.g., ssh username@IP-address).
 Ensure Raspberry PI OS is updated (e.g., Sudo apt update && sudo apt upgrade)
 
+<img width="600" height="400" alt="Screenshot 2025-10-06 at 5 31 08 PM" src="https://github.com/user-attachments/assets/e4947749-7ee4-49ca-8bc4-e4a132a33ebe" />
+
 # Step 4 - Assign a Static IP to your Raspberry Pi
-Multiple ways to do this, but I used the nmtui command(e.g. nmtui).
+Multiple ways to do this, but I used the nmtui command(e.g., nmtui).
 Once the interface is up, go to "edit connection".
-Go to IPv4 and change from "<Automatic>" to "<Manual>"
-Assign your device the desired static IP address (Ensure that it falls outside the assignable IP's your router assigns)
+Go to IPv4 and change from "Automatic" to "Manual".
+Assign your device the desired static IP address (Ensure that it falls outside the IP addresses your router assigns).
 
 # Step 5 - Install Pi-hole
 Use the command line to install Pi-hole (e.g., curl -sSL https://install.pi-hole.net | bash)
