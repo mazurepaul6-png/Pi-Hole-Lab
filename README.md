@@ -63,6 +63,11 @@ I chose to change my routers DNS settings so that Pi-hole as the primary DNS ser
 
 <img width="600" height="100" alt="Screenshot 2025-10-06 at 4 57 36 PM" src="https://github.com/user-attachments/assets/b88bd0ef-a97a-4a81-bca5-2c293d0df5a7" />
 
+Once DNS settings are changed, you should start seeing traffic coming into your Pi-hole.
+
+<img width="600" height="400" alt="Screenshot 2025-10-06 at 5 01 14 PM" src="https://github.com/user-attachments/assets/47b9ba82-0573-4212-966f-8b8e5113592a" />
+
+
 
 
 
