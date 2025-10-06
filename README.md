@@ -1,7 +1,5 @@
 # Pi-hole Lab
 
-# PROJECTNAME
-
 ## Objective
 
 Implement Pi-hole into the home network using a Raspberry Pi to enhance network security.
